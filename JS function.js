@@ -6,7 +6,7 @@ function sayHello(param) {
   console.log("hello", param);
 }
 
-//function invocation/ call --->>>>>>>>
+//function invocation call --->>>>>>
 
 sayHello();
 sayHello(10);
